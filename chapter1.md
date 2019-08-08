@@ -40,3 +40,41 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: a03b7f439a
+xp: 100
+```
+
+"hello world"를 출력하세요.
+
+`@instructions`
+print 문을 이용하세요
+
+`@hint`
+print(" ")
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+print("hello world")
+```
+
+`@sct`
+```{python}
+print("hello world")
+```
